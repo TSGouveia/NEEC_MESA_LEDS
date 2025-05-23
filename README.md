@@ -10,7 +10,7 @@ Este repositório serve para controlar uma mesa de LEDs usando Arduino como **sl
   👉 [NEEC_LEDS_EXAMPLE](https://github.com/TSGouveia/NEEC_LEDS_EXAMPLE)
 
 - **Source do projeto Unity para desenho personalizado**  
-  👉 [Mesa_de_Leds_Paint_2](https://github.com/TSGouveia/Mesa_de_Leds_Paint_2)
+  👉 [Mesa_de_Leds_Paint](https://github.com/TSGouveia/Mesa_de_Leds_Paint_Final)
 
 ---
 
